@@ -1,0 +1,2 @@
+[12-May-2021 15:38:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/imwebst/public_html/arcade/wp-content/plugins/gd-star-rating/code/blg/db.php on line 287
+[12-May-2021 22:37:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/imwebst/public_html/arcade/wp-content/plugins/gd-star-rating/code/blg/db.php on line 287

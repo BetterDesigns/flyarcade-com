@@ -1,0 +1,3 @@
+{"event":"details","time":1621479946,"u":"40","run":"0.01","mem":"1.43","data":"Finished step."}
+{"event":"details","time":1621479951,"u":"40","run":"0.02","mem":"0.44","data":"Finished step."}
+{"event":"details","time":1621479976,"u":"53","run":"0.00","mem":"0.37","data":"Finished step."}

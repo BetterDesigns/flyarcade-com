@@ -1,0 +1,2 @@
+<?php die('<!-- // Silence is golden. -->'); ?>
+YTo0OntzOjEwOiJiYl92ZXJzaW9uIjtzOjQ2OiI3LjIuMS4wIChkb3dubG9hZGVkIDIwMjAtMDQtMTRUMTM6NTc6MjgrMDA6MDApIjtzOjE2OiJiYWNrdXBfZGlyZWN0b3J5IjtzOjA6IiI7czo5OiJsb2dfbGV2ZWwiO2k6MDtzOjEwOiJsb2dfc2VyaWFsIjtzOjE1OiJocGRmbzh3OTJkM2NmMHEiO30=

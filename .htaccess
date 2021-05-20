@@ -5,11 +5,6 @@
 # Any changes to the directives between these markers will be overwritten.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule ^(.*->>-.*)\d{3}$ features/index\.php?cat=$1&%{QUERY_STRING} [L]
-RewriteRule ^.*-(\d+)/$ features/index\.php?id=$1&%{QUERY_STRING} [L]
-RewriteRule ^.*(goods[a-z]+map\.xml)$  product/$1 [L]
-RewriteRule ^.*(sitemap\.xml)$  product/$1 [L]
-
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 RewriteBase /
 RewriteRule ^index\.php$ - [L]

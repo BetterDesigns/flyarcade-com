@@ -30,6 +30,10 @@ define( 'DB_HOST', 'localhost' );
 define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+define( 'WP_MEMORY_LIMIT', '300M' );
+define( 'WP_MAX_MEMORY_LIMIT', '300M' );
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *

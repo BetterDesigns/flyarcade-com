@@ -1,0 +1,2 @@
+{"event":"details","time":1621554545,"u":"71","run":"0.01","mem":"1.45","data":"Finished step."}
+{"event":"details","time":1621554582,"u":"16","run":"0.01","mem":"0.45","data":"Finished step."}
